@@ -1,0 +1,4 @@
+repository "Got Fired@Game_Programing_Lecture@cloud"
+  path "/"
+    br "/main"
+    co "/main"
